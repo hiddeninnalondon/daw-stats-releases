@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DAW Stats</title>
+    <item>
+      <title>0.2</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 22 Oct 2026 22:35:35 +0000</pubDate>
+      <enclosure url="https://github.com/hiddeninnalondon/daw-stats-releases/releases/download/v0.2/DAWStats-0.2.dmg" sparkle:edSignature="RTS8LlOx19YGHlqTQvsarO9Gr0fXHWhX7ZZhv972yphUE1h/fLRS1hHc/xcLYwNpcKKbXsQrCbq50xmqb1uBDg==" length="3192405" type="application/octet-stream"/>
+    </item>
+
+  </channel>
+</rss>
