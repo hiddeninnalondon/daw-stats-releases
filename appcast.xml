@@ -3,6 +3,15 @@
   <channel>
     <title>DAW Stats</title>
     <item>
+      <title>0.3</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 22 Oct 2026 22:46:34 +0000</pubDate>
+      <enclosure url="https://github.com/hiddeninnalondon/daw-stats-releases/releases/download/v0.3/DAWStats-0.3.dmg" sparkle:edSignature="+sED9NeQHSXCH8UPYVCOetP/2Ssaf7hv8NBNwQVUDUJ3wih0gMDd100wQHW05td6QgtnO/Ua6DJ2g2oEk04LBg==" length="3194588" type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>0.2</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
